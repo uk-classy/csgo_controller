@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\remote_csgo\remote_csgo\bin\Debug\remote_csgo.exe.config
+C:\Users\user\source\repos\remote_csgo\remote_csgo\bin\Debug\remote_csgo.exe
+C:\Users\user\source\repos\remote_csgo\remote_csgo\bin\Debug\remote_csgo.pdb
+C:\Users\user\source\repos\remote_csgo\remote_csgo\obj\Debug\remote_csgo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\remote_csgo\remote_csgo\obj\Debug\remote_csgo.MainForm.resources
+C:\Users\user\source\repos\remote_csgo\remote_csgo\obj\Debug\remote_csgo.Properties.Resources.resources
+C:\Users\user\source\repos\remote_csgo\remote_csgo\obj\Debug\remote_csgo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\remote_csgo\remote_csgo\obj\Debug\remote_csgo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\remote_csgo\remote_csgo\obj\Debug\remote_csgo.exe
+C:\Users\user\source\repos\remote_csgo\remote_csgo\obj\Debug\remote_csgo.pdb
